@@ -1,0 +1,46 @@
+{"pedidos":
+[
+  {
+    "pedido":5700,
+    "Solicitante":"Eduardo S",
+    "notasFiscais":[
+      {"nf":5500,
+      "serie":"10",
+      "item":25555
+      },
+      {"nf":5501,
+      "serie":"10",
+      "item":23333
+      }
+    ]
+  },
+  {
+    "pedido":5701,
+    "Solicitante":"Mayara S",
+    "notasFiscais":[
+      {"nf":5502,
+      "serie":"10",
+      "item":25556
+      },
+      {"nf":5503,
+      "serie":"10",
+      "item":23334
+      }
+    ]
+  },
+  {
+    "pedido":5702,
+    "Solicitante":"Luis S",
+    "notasFiscais":[
+      {"nf":5504,
+      "serie":"10",
+      "item":25557
+      },
+      {"nf":5505,
+      "serie":"10",
+      "item":23338
+      }
+    ]
+  }
+]
+}
