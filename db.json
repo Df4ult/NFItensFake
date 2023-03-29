@@ -1,6 +1,7 @@
 {"pedidos":
 [
   {
+    "id":5700,
     "pedido":5700,
     "Solicitante":"Eduardo S",
     "notasFiscais":[
@@ -15,6 +16,7 @@
     ]
   },
   {
+    "id":5701,
     "pedido":5701,
     "Solicitante":"Mayara S",
     "notasFiscais":[
@@ -29,6 +31,7 @@
     ]
   },
   {
+    "id":5702,
     "pedido":5702,
     "Solicitante":"Luis S",
     "notasFiscais":[
